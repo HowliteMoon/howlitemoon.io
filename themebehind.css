@@ -1141,8 +1141,8 @@ background:rgba(255,255,255,.07)
 color:var(--channel-color)
 }
 .unread-36eUEm{
-display:none
-
+display:inherit;
+background-color: var(--channel-unread);
 }
 .live-1V2D-f{
 background-color:var(--main-color) !important
