@@ -5,25 +5,31 @@
     --hover-color: #8E3553;
     --success-color: #44ee22;
     --danger-color: rgb(180, 9, 32);
+    --url-color: rgb(201, 176, 37);
+    
     --channel-unread: rgba(237,116,173,1);
     --channel-color: rgba(255, 255, 255, 0.753);
     --muted-color: rgba(255, 255, 255, 0.192);
     --channel-text-selected: #fff;
-    --url-color: rgb(201, 176, 37);
+    
     --online-color: #51e058;
     --idle-color: #eaf822;
     --dnd-color: #d10f29;
-    --offline-color: #8b58e4;
-    --streaming-color: #474141;
+    --offline-color: #474141;
+    --streaming-color: #8b58e4;
+    
     --main-font: "Poppins";
     --code-font: "Poppins";
     --font-display: var(--main-font);
+    
     --text-normal: rgb(220, 221, 222);
     --text-muted: rgb(114, 118, 125);
+    
     --channels-width: 260px;
     --members-width: 260px;
-    --background-shading: 100%;
-    --background-overlay: rgba(0, 0, 0, 0.6);
+    
+    --background-shading: 0%;
+    --background-overlay: rgb(63,81,181,0);
     --background-image: url(https://i.imgur.com/6IJzCRo.png);
     --background-position: center;
     --background-size: cover;
@@ -35,7 +41,9 @@
     --background-invert: 0%;
     --background-grayscale: 0%;
     --background-sepia: 0%;
-    --background-blur: 0px;
+    --background-blur: 2px;
+    --background-mentioned: rgb(255,255,255);
+    
     --backdrop-overlay: rgba(0,0,0,0.8);
     --backdrop-image: var(--background-image);
     --backdrop-position: var(--background-position);
@@ -49,6 +57,7 @@
     --backdrop-grayscale: var(--background-grayscale);
     --backdrop-sepia: var(--background-sepia);
     --backdrop-blur: var(--background-blur);
+    
     --user-popout-image: var(--background-image);
     --user-popout-position: var(--background-position);
     --user-popout-size: var(--background-size);
@@ -62,6 +71,7 @@
     --user-popout-sepia: var(--background-sepia);
     --user-popout-blur: calc(var(--background-blur) + 3px);
     --user-popout-overlay: rgba(0, 0, 0, 0.65);
+    
     --user-modal-image: var(--background-image);
     --user-modal-position: var(--background-position);
     --user-modal-size: var(--background-size);
@@ -74,9 +84,11 @@
     --user-modal-grayscale: var(--background-grayscale);
     --user-modal-sepia: var(--background-sepia);
     --user-modal-blur: calc(var(--background-blur) + 3px);
+    
     --home-icon: url(https://i.imgur.com/PGbxamX.png);
     --home-position: center;
-    --home-size: 40px;
+    --home-size: 48px;
+    
     --bd-blue: var(--main-color);
     --bd-blue-hover: var(--hover-color);
     --bd-blue-active: var(--hover-color)
