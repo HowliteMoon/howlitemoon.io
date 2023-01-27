@@ -8798,10 +8798,9 @@ code {
 }
 .botTag-7aX5WZ {
   padding: 1px 2px;
-  background: rgba(255, 255, 255, 0.1);
-  color: rgba(255, 255, 255, 0.6);
+  background: var(--main-color);
+  color: rgba(255, 255, 255, 1);
   font-weight: 700;
-  text-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
   border-radius: 3px;
 }
 .botTagInvert-1nKcq_ {
