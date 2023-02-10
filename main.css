@@ -401,6 +401,7 @@
     blur(var(--backdrop-blur));
   pointer-events: none;
 }
+
 .backdrop-2ByYRN:after {
   content: "";
   position: fixed;
