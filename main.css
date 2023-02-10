@@ -2964,6 +2964,9 @@ textarea::-webkit-scrollbar {
 .theme-dark .container-2cd8Mz {
   background-color: rgba(0, 0, 0, 0);
 }
+.theme-dark .panel-2ZFCRb {
+    background: var(--bg-overlay-2);
+}
 .peopleColumn-1wMU14 {
   background: rgba(0, 0, 0, calc(var(--background-shading) * 0.4));
 }
