@@ -30,7 +30,7 @@
     
     --background-shading: 100%;
     --background-overlay: rgb(63,81,181,0);
-    --background-image: url(https://i.imgur.com/yFONhHf.png);
+    --background-image: url(https://i.imgur.com/Tqw55K7.png);
     --background-position: center;
     --background-size: cover;
     --background-repeat: no-repeat;
@@ -41,7 +41,7 @@
     --background-invert: 0%;
     --background-grayscale: 0%;
     --background-sepia: 0%;
-    --background-blur: 2px;
+    --background-blur: 0px;
     --background-mentioned: rgb(255,255,255);
     
     --backdrop-overlay: rgba(0,0,0,0.8);
