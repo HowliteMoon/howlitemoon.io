@@ -2514,6 +2514,7 @@ textarea::-webkit-scrollbar {
 }
 .theme-dark .scroller-3X7KbA {
   background: rgba(0, 0, 0, 0);
+    width: 80px;
 }
 .tree-3agP2X {
   outline: none;
